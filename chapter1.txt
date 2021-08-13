@@ -1,1 +1,1 @@
-The first file in the repository
+Chapter 1 updated in second branch
